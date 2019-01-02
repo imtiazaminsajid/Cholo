@@ -5,21 +5,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".DriverLoginActivity">
 
-    <Button
-        android:id="@+id/driver"
+    <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="I m a Driver"
-        />
-
-    <Button
-        android:id="@+id/customer"
+        android:hint="Email"
+        android:id="@+id/email"/>
+    <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="I m a Customer"
-        />
-
+        android:hint="Password"
+        android:id="@+id/password"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="login"
+        android:id="@+id/login"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="registration"
+        android:id="@+id/registration"/>
 
 </LinearLayout>
