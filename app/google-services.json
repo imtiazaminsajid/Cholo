@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5557413650",
+    "firebase_url": "https://cholo-272f8.firebaseio.com",
+    "project_id": "cholo-272f8",
+    "storage_bucket": "cholo-272f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5557413650:android:d74d356149508147",
+        "android_client_info": {
+          "package_name": "com.example.ambit.cholo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5557413650-n7d6l3m48jqsgarnqc59v9betpt9ke1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ambit.cholo",
+            "certificate_hash": "eac7d1166b620fa0ff086bea35e3f38b744312b1"
+          }
+        },
+        {
+          "client_id": "5557413650-c9vbtldppjt0hl0s4p7craocsiheglhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uwc0mPK0oegVEI_fbLX796XPNpqPNoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5557413650-c9vbtldppjt0hl0s4p7craocsiheglhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
